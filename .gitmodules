@@ -10,3 +10,7 @@
 [submodule "_hcl"]
 	path = _hcl
 	url = https://github.com/maiska/qubes-hcl.rtd
+[submodule "_translated"]
+	path = _translated
+	url = https://github.com/maiska/qubes-translated.rtd.git
+	branch = convert-rst
