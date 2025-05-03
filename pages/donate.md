@@ -15,7 +15,7 @@ Your donation directly supports the continued development of Qubes OS. We accept
 
 ## Option 1: Give a one-time donation
 
-With credit card donations, [we lose roughly 14%](https://docs.opencollective.foundation/how-it-works/fees) to administrative costs, while donating cryptocurrency avoids these costs.
+With credit card donations, [we lose roughly 14%](https://documentation.opencollective.com/why-open-collective/pricing) to administrative costs, while donating cryptocurrency avoids these costs.
 
 ### <i class="fa fa-2x fa-bitcoin"></i> Bitcoin (BTC)
 
@@ -30,7 +30,7 @@ With credit card donations, [we lose roughly 14%](https://docs.opencollective.fo
 
 <div class="alert alert-danger" role="alert">
   <i class="fa fa-exclamation-triangle"></i>
-  <b>Warning:</b> This <a href="https://gnosis-safe.io/">Gnosis Safe</a> Ethereum address supports ether (ETH) and all assets that fully comply with the <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-20/">ERC-20</a> standard (e.g., USDT, USDC, and DAI), but <em>only</em> on <a href="https://ethereum.org/en/developers/docs/networks/#ethereum-mainnet">Ethereum Mainnet</a>. Please <em>do not</em> send assets on any other network to this address, or else your donation may be lost. For example, please <em>do not</em> send assets on any Ethereum Layer 2 solution (e.g., Arbitrum, Optimism) or any sidechain (e.g., Polygon, xDai) to this address.
+  <b>Warning:</b> This <a href="https://safe.global/">Gnosis Safe</a> Ethereum address supports ether (ETH) and all assets that fully comply with the <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-20/">ERC-20</a> standard (e.g., USDT, USDC, and DAI), but <em>only</em> on <a href="https://ethereum.org/en/developers/docs/networks/#ethereum-mainnet">Ethereum Mainnet</a>. Please <em>do not</em> send assets on any other network to this address, or else your donation may be lost. For example, please <em>do not</em> send assets on any Ethereum Layer 2 solution (e.g., Arbitrum, Optimism) or any sidechain (e.g., Polygon, xDai) to this address.
 </div>
 
 [![Qubes Ethereum donation address QR code](/attachment/site/qr-ethereum.png)](/attachment/site/qr-ethereum.png)
@@ -118,7 +118,7 @@ Donations via [EU Bank Transfer](#how-can-i-donate-via-eu-bank-transfer) should 
 
 ### How can I donate via EU bank transfer?
 
-For donations over 500EUR, we have partnered with the [Center for the Cultivation of Technology](https://techcultivation.org) (CCT) to handle EU bank transfers.
+We have partnered with the [Center for the Cultivation of Technology](https://techcultivation.org) (CCT) to handle EU bank transfers.
 CCT is a charitable non-profit host organization in Germany for international Free Software projects.
 They charge a 10% fee for this service.
 
